@@ -1,2 +1,2 @@
-# A12
-Swain's class
+# EndlessRunnerGame
+EndlessRunner
